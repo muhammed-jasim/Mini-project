@@ -13,4 +13,3 @@ navbar.addEventListener('click',function(){
     navbar.classList.remove('navbar-active')
 
 })
-  

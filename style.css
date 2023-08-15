@@ -13,7 +13,7 @@
 .home{
     width: 100%;
     /* height: 100vh; */
-    background-color: rgb(255, 251, 240);
+    background-color: #fffbf0;
     /* background-color: rgb(255, 255, 255); */
     /* border: 2px solid red; */
 }
@@ -844,3 +844,4 @@ footer .footer-name{
         font-size: 7px;
     }
 }
+
