@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap');
 *{
     margin: 0 ;
     padding: 0;
@@ -354,6 +354,7 @@ nav a {
     padding-top: 12vh;
     font-weight: 700;
     font-size: 1.9vw;
+    font-family: 'Montserrat', sans-serif !important;
 }
 .heading-div span{
     color: orange;
@@ -372,9 +373,12 @@ nav a {
 .card-body h5{
     font-size: 1.3vw;
     font-weight: 700;
+    font-family: 'Montserrat', sans-serif !important;
+
 }
 .card-body p{
     font-size: 0.9vw;
+    font-family: 'Montserrat', sans-serif !important;
 }
 .card{
     display: flex;
@@ -454,6 +458,7 @@ nav a {
         display: flex;
         flex-direction:column;
     }
+
     .card-body h5{
         font-size: 2.4vw;
     }
